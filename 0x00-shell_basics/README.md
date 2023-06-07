@@ -8,3 +8,6 @@
 
 *2. There is no place like home*
 2-bring_me_home changes the working directory to the user’s home directory.
+
+*3. The long format*
+3-listfiles displays the contents of the current directory in a long format.
