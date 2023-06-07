@@ -32,3 +32,6 @@
 
 **9. Bye bye My first directory**
 9-firstdirdeletion deletes *my_first_directory* from the */tmp* directory.
+
+**10. Back to the future**
+10-back changes the working directory to the previous one.
