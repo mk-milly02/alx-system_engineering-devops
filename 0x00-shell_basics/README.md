@@ -5,3 +5,6 @@
 
 *1. What’s in there?*
 1-listit displays the contents for the current directory as a list.
+
+*2. There is no place like home*
+2-bring_me_home changes the working directory to the user’s home directory.
