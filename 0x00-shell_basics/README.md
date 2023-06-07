@@ -14,3 +14,11 @@
 
 **4. Hidden files**
 4-listmorefiles displays the current directory's contents, including hidden files (starting with .). Using the long format.
+
+**5. I love numbers**
+listfilesdigitonly displays current directory contents in:
+	- long format
+	- with user and group IDs displayed numerically
+	- with hidden files starting with (.)
+
+
