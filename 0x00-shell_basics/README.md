@@ -11,3 +11,6 @@
 
 *3. The long format*
 3-listfiles displays the contents of the current directory in a long format.
+
+*4. Hidden files*
+4-listmorefiles displays the current directory's contents, including hidden files (starting with .). Using the long format.
