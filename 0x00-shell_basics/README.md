@@ -30,5 +30,5 @@
 **8. Bye bye Betty**
 8-firstdelete deletes the file betty from */tmp/my_first_directory*.
 
-**10. Back to the future**
+**9. Bye bye My first directory**
 9-firstdirdeletion deletes *my_first_directory* from the */tmp* directory.
