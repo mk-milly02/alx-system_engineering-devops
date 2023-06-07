@@ -41,3 +41,6 @@
 
 **12. File type**
 12-file_type prints the type of the file named *iamafile* in the */tmp/* directory.
+
+**13. We are symbols, and inhabit symbols**
+13-symbolic_link creates a a symbolic link in the current directory to */bin/ls*, named __ls__.
