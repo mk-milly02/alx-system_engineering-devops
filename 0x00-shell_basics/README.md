@@ -83,3 +83,6 @@
 	- The listing should be alpha ordered, except for the directories . and .. which should be listed at the very beginning
 	- Only digits and letters are used to sort; Digits should come first
 
+**19. File type: School**
+
+A magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.
