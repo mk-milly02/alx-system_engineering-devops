@@ -71,3 +71,6 @@
 
 #### 23. Empty casks make the most noise
 100-empty_casks finds all empty files and directories in the current directory and all sub-directories.
+
+#### 23. A gif is worth ten thousand words
+101-gifs lists all the files with a .gif extension in the current directory and all its sub-directories.
