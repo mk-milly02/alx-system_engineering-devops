@@ -41,3 +41,6 @@
 
 #### 13. Being unique is better than being perfect
 13-unique takes a list of words as input and prints only words that appear exactly once.
+
+#### 14. It must be in that file
+14-findthatword displays lines containing the pattern “root” from the file `/etc/passwd`.
