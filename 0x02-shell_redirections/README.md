@@ -17,3 +17,6 @@
 
 #### 5. I'd prefer the first ones actually
 5-firstlines displays the first 10 lines of `/etc/passwd`.
+
+#### 6. Line #2
+6-third_line displays the third line of the file `iacta`.
