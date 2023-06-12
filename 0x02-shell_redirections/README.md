@@ -62,3 +62,6 @@
 
 #### 20. Without C, you would live in hiago
 20-hiago removes all letters c and C from input.
+
+#### 21. esreveR
+21-reverse reverses a standard input.
