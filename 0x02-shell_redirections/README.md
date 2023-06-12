@@ -74,3 +74,6 @@
 
 #### 23. A gif is worth ten thousand words
 101-gifs lists all the files with a .gif extension in the current directory and all its sub-directories.
+
+#### 25. Acrostic
+102-acrostic decodes acrostics that use the first letter of each line.
