@@ -14,3 +14,6 @@
 
 #### 4. Last lines of a file
 4-lastlines displays the last 10 lines of `/etc/passwd`.
+
+#### 5. I'd prefer the first ones actually
+5-firstlines displays the first 10 lines of `/etc/passwd`.
