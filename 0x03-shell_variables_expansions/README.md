@@ -32,3 +32,6 @@
 
 #### 10. Love is anterior to life, posterior to death, initial of creation, and the exponent of breath
 10-love_exponent_breath displays the result of BREATH to the power LOVE.
+
+#### 11. There are 10 types of people in the world -- Those who understand binary, and those who don't
+11-binary_to_decimal converts a number from base 2 to base 10.
