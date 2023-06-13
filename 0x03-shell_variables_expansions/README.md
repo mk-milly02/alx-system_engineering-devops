@@ -41,3 +41,6 @@
 
 #### 13. Floats
 12-print_float prints a number with two decimal places, followed by a new line.
+
+#### 14. Decimal to Hexadecimal
+100-decimal_to_hexadecimal converts a number from base 10 to base 16.
