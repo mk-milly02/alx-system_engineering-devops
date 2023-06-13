@@ -11,3 +11,6 @@
 
 #### 3. If the path be beautiful, let us not ask where it leads
 3-paths counts the number of directories in the `PATH` variable.
+
+#### 4. Global variables
+4-global_variables lists environment variables.
