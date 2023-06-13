@@ -44,3 +44,6 @@
 
 #### 14. Decimal to Hexadecimal
 100-decimal_to_hexadecimal converts a number from base 10 to base 16.
+
+#### 15. Everyone is a proponent of strong encryption
+101-rot13 encodes and decodes text using the rot13 encryption.
