@@ -47,3 +47,6 @@
 
 #### 15. Everyone is a proponent of strong encryption
 101-rot13 encodes and decodes text using the rot13 encryption.
+
+#### 16. The eggs of the brood need to be an odd number
+102-odd prints every other line from the input, starting with the first line.
