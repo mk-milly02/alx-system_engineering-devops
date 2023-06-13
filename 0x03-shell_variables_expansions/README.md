@@ -35,3 +35,6 @@
 
 #### 11. There are 10 types of people in the world -- Those who understand binary, and those who don't
 11-binary_to_decimal converts a number from base 2 to base 10.
+
+#### 12. Combination
+12-combinations prints all possible combinations of two letters, except `oo`.
