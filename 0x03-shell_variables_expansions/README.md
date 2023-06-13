@@ -20,3 +20,6 @@
 
 #### 6. Local variable
 6-create_local_variable creates a new local variable.
+
+#### 7. Global variable
+7-create_global_variable creates a new global variable.
